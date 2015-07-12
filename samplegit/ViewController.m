@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"hi");
+    NSLog(@"forked and editing now");
     NSLog(@"new log");
 }
 
